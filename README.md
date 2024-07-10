@@ -3,6 +3,7 @@
 ## Overview
 
 This repository presents the implementation of an E-Commerce FAQ Chatbot empowered by Parameter Efficient Fine Tuning (PEFT) with the LoRA (Low-Rank Adaptation) Technique. The project aims to streamline customer support processes by automating responses to frequently asked questions using advanced language models.
+![image](https://github.com/Swati-Shiriyannavar/AI-Powered-Resume-Summarizer-and-Question-Answering-Model/assets/75442865/a52a56ac-c66f-442a-98ae-13a0631e5c84)
 
 ## Table of Contents
 
